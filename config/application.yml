@@ -1,0 +1,10 @@
+server:
+  prot: 8080
+datasource:
+  driverName : mysql
+  host : 127.0.0.1
+  prot: 3306
+  database: 数据库名称
+  username : root
+  password : 你的mysql密码
+  charset: utf8
